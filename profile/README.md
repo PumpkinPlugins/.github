@@ -1,7 +1,7 @@
 # PumpkinPlugins
 The first organization dedicated to developing high quality plugins for the [Pumpkin](https://github.com?pumpkin-MC/Pumpkin) minecraft server software.
 
-![Discord](https://img.shields.io/discord/1380863905932251228?link=https%3A%2F%2Fdiscord.gg%2FJMwGrM6c)
+[![Discord](https://img.shields.io/discord/1380863905932251228)](https://discord.gg/JMwGrM6c)
 
 ## Plugin list
 ### PLua
