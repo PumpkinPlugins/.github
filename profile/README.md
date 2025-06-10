@@ -1,11 +1,11 @@
 # PumpkinPlugins
-The first organization dedicated to developing high quality plugins for the [Pumpkin](https://github.com?pumpkin-MC/Pumpkin) minecraft server software.
+The first organization dedicated to developing high quality plugins for the [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) minecraft server software.
 
 [![Discord](https://img.shields.io/discord/1380863905932251228)](https://discord.gg/JMwGrM6c)
 
 ## Plugin list
 ### PLua
-The latest addition to the PumpkinPlugins organization. This plugin acts as a PoC (Proof-of-Concept) plugin to demonstrate the feasibility of writing external runtimes for [Pumpkin](https://github.com?pumpkin-MC/Pumpkin).
+The latest addition to the PumpkinPlugins organization. This plugin acts as a PoC (Proof-of-Concept) plugin to demonstrate the feasibility of writing external runtimes for [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin).
 
 This plugin allow server admins to quickly and easily write plugins using the Lua programming language.
 
